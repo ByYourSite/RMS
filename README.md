@@ -1,2 +1,2 @@
-# RMS
-RMS
+# Flicks
+Ruby On Rails Training project
